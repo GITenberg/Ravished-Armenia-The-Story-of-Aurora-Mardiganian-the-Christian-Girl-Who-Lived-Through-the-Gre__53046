@@ -1,0 +1,46 @@
+_repo: Ravished-Armenia-The-Story-of-Aurora-Mardiganian-the-Christian-Girl-Who-Lived-Through-the-Gre__53046
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Waln, Nora
+    birthdate: 1895
+    deathdate: 1964
+    gutenberg_agent_id: '47195'
+    url: http://www.gutenberg.org/2009/agents/47195
+  translator:
+    agent_name: Gates, H. L. (Henry Leyford)
+    alias: Gates, Henry Leyford
+    birthdate: 1878
+    deathdate: 1937
+    gutenberg_agent_id: '47194'
+    url: http://www.gutenberg.org/2009/agents/47194
+creator:
+  author:
+    agent_name: Mardiganian, Aurora
+    alias: Martikanean, Arshaluys
+    birthdate: 1901
+    deathdate: 1994
+    gutenberg_agent_id: '47108'
+    url: http://www.gutenberg.org/2009/agents/47108
+    wikipedia: https://en.wikipedia.org/wiki/Aurora_Mardiganian
+description: ''
+gutenberg_issued: '2016-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53046'
+  lccn: '19001186'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcsh 'World War, 1914-1918 -- Atrocities'
+- !lcsh 'Genocide -- Turkey'
+- !lcsh 'World War, 1914-1918 -- Armenia'
+- !lcsh 'Armenian massacres, 1915-1923 -- Personal narratives'
+- !lcc 'D501'
+- GITenberg
+title: "Ravished Armenia\r\nThe Story of Aurora Mardiganian, the Christian Girl Who\
+  \ Lived Through the Great Massacres"
+url: http://www.gutenberg.org/ebooks/53046
